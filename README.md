@@ -5,5 +5,5 @@ if numero >40 and numero  %7 == 0: #esta linea se encarga de saber si es mayor o
 else: #esta linea se encarga de definir que hacer si no se cumple con las peticiones 
     print (f"el numero es es menor a 40 y no dividible entre 7") #esta linea se encarga de que mostrar si el numero no es dividible entre 7 y mayor a 40
     ![image](https://github.com/user-attachments/assets/c205d60a-4940-49a6-9a57-24cd1a192ad6)
-    ![image](https://github.com/user-attachments/assets/cb47d8fe-ff61-413c-ae8b-15551000ffc0)
+![image](https://github.com/user-attachments/assets/f59a49d9-69c4-4e9a-b033-44051be48fd7)
 
